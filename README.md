@@ -6,7 +6,7 @@ The purpose of this summary is to use the city and ride data from [Ride_Data](ht
 
 ## Analysis
 ---
-The total rides vary destrically among the city types with urban having by far the most with suburban having the second most and rural having the least. urban has almost twelve times the amount of total rides compared to Rural cities. This difference leads to the drastic variances in other values as well. This leads to far more drivers and more total fares in urban cities compared to Suburban and rural. However, since there are fewer drivers in rural areas the prices go up. This shows that in rural areas the rides tend to be longer and therefore cost more compared to city areas where the distance to the destination is shorter. However since there are less drivers in the more rural cities then their average is higher. ----
+The total rides vary destrically among the city types with urban having by far the most with suburban having the second most and rural having the least. urban has almost twelve times the amount of total rides compared to Rural cities. This difference leads to the drastic variances in other values as well. This leads to far more drivers and more total fares in urban cities compared to Suburban and rural. However, since there are fewer drivers in rural areas the prices go up. This shows that in rural areas the rides tend to be longer and therefore cost more compared to city areas where the distance to the destination is shorter. However since there are less drivers in the more rural cities then their average is higher. ![sc](https://github.com/evanbruno617/ride_sharing_summary/blob/main/Resources/Screen%20Shot%202022-03-01%20at%209.43.45%20PM.png)
 
 ## Summary
 ---
